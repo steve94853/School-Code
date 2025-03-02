@@ -1,0 +1,3 @@
+﻿  Adventure.cpp
+C:\Users\omond\source\repos\Adventure\Adventure\Adventure.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Adventure.vcxproj -> C:\Users\omond\source\repos\Adventure\x64\Debug\Adventure.exe
